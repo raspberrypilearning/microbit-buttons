@@ -1,6 +1,6 @@
 The micro:bit has two buttons, the A button and the B button.
 
-They can be programmed so something happen when only A is pressed, only B is pressed, or when A+B are pressed together.
+They can be programmed so something happens when only A is pressed, only B is pressed, or when A+B are pressed together.
 
 --- task ---
 
