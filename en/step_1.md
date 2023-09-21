@@ -61,12 +61,12 @@ Use the dropdown to change the button for the event to `B` instead.
 
 --- task ---
 
-Add blocks to run when you press B.
+Add blocks to run when you press Button B.
 
 --- /task ---
 
 --- task ---
 
-Repeeat the above steps to add Button A+B to your workspace.
+Repeat the above steps to add Button A+B to your workspace.
 
 --- /task ---
