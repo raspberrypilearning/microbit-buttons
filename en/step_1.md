@@ -5,7 +5,7 @@ They can be programmed so something happens when only A is pressed, only B is pr
 
 In the `Input`{:class='microbitinput'} menu, you could find the `on button pressed`{:class='microbitinput'} block.
 
-![Input menu expanded showing the `on button pressed` block highlighted.](images/input-on-ButtonA.png)
+<img src="images/input-on-ButtonA.png" alt="Input menu expanded showing the `on button pressed` block highlighted." width="350"/>
 
 To use it, drag it onto the workspace.
 
@@ -17,7 +17,8 @@ This is an event block, you can put other blocks inside of it and they will all 
 
 In the `Basic`{:class='microbitbasic'} menu, you would find a `show string`{:class='microbitbasic'} block.
 
-![Basic menu expanded showing the `show icon` block highlighted.](images/basic-blocks.png)
+<img src="images/basic-blocks.png" alt="Basic menu expanded showing the `show icon` block highlighted." width="350"/>
+
 
 Place it inside the `on button pressed`{:class='microbitinput'} block.
 
