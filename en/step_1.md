@@ -18,9 +18,6 @@ This is an event block. You can put other blocks inside of it and they will run 
 
 In the `Basic`{:class='microbitbasic'} menu, you can find the `show string`{:class='microbitbasic'} block.
 
-<img src="images/basic-blocks.png" alt="Basic menu expanded showing the `show icon` block highlighted." width="350"/>
-
-
 Place this block inside the `on button pressed`{:class='microbitinput'} block.
 
 Change the string `Hello` to a message of your choice. We have used `Breathe` in this example.
