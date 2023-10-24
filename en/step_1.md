@@ -1,7 +1,6 @@
-The micro:bit has two buttons, Button A and Button B.
+The micro:bit has two buttons, button A and button B.
 
 They can be programmed so something happens when only A is pressed, only B is pressed, or when A+B are pressed together.
-
 
 You can find the `on button pressed`{:class='microbitinput'} block in the `Input`{:class='microbitinput'} menu.
 
@@ -15,7 +14,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-This is an event block. You can put other blocks inside of it and they will run when the event happens. In this case, the event is Button A being pressed.
+This is an event block. You can put other blocks inside of it and they will run when the event happens. In this case, the event is button A being pressed.
 
 In the `Basic`{:class='microbitbasic'} menu, you can find the `show string`{:class='microbitbasic'} block.
 
@@ -34,7 +33,7 @@ input.onButtonPressed(Button.A, function () {
 
 You can add more blocks inside the `on button pressed`{:class='microbitinput'} block as needed.
 
-Test your program. When the simulator restarts, press Button A and your message will show on the LED screen.
+Test your program. When the simulator restarts, press button A and your message will show on the LED screen.
 
 ### Add other buttons
 
@@ -42,9 +41,9 @@ You can have many events in a single program!
 
 Open the `Input`{:class='microbitinput'} menu, and drag another `on button pressed`{:class='microbitinput'} block into the workspace.
 
-At first the block will be faded out, because you can only have one reaction for each event.
+At first, the block will be faded out, because you can only have one reaction for each event.
 
-Use the drop-down menu to change event to button `B` being pressed instead.
+Use the drop-down menu to change the event to button `B` being pressed instead of button A.
 
 <img src="images/changebutton-menu.gif" alt="Animation showing the drop-down menu on the `on button pressed` block. Button B is chosen and the block is no longer greyed out." width="350"/>
 
