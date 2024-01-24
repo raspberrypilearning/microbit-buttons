@@ -2,11 +2,11 @@
 
 Μπορούν να προγραμματιστούν έτσι ώστε κάτι να συμβαίνει όταν πατιέται μόνο το Α, όταν πατιέται μόνο το Β ή όταν πατιόνται τα Α+Β μαζί.
 
-Μπορείς να βρεις το μπλοκ "όταν πιεστεί το πλήκτρο button"{:class='microbitinput'} στο μενού "Είσοδος"{:class='microbitinput'}.
+Μπορείς να βρεις το μπλοκ `όταν πιεστεί το πλήκτρο button`{:class='microbitinput'} στο μενού `Είσοδος`{:class='microbitinput'}.
 
 <img src="images/input-on-ButtonA.png" alt="Input menu expanded showing the `on button pressed` block highlighted." width="350"/>
 
-Για να χρησιμοποιήσεις το μπλοκ "όταν πιεστεί το πλήκτρο button"{:class='microbitinput'}, σύρε το στον χώρο εργασίας.
+Για να χρησιμοποιήσεις το μπλοκ `όταν πιεστεί το πλήκτρο button`{:class='microbitinput'}, σύρε το στον χώρο εργασίας.
 
 ```microbit
 input.onButtonPressed(Button.A, function () {
@@ -20,9 +20,9 @@ input.onButtonPressed(Button.A, function () {
 
 <img src="images/basic-blocks.png" alt="Basic menu expanded showing the `show string` block highlighted." width="350"/>
 
-Τοποθέτησε αυτό το μπλοκ μέσα στο μπλοκ "όταν πιεστεί το πλήκτρο button"{:class='microbitinput'}.
+Τοποθέτησε αυτό το μπλοκ μέσα στο μπλοκ `όταν πιεστεί το πλήκτρο button`{:class='microbitinput'}.
 
-Άλλαξε τη συμβολοσειρά «Hello» σε μήνυμα της επιλογής σου. Έχουμε χρησιμοποιήσει το "Ανάπνευσε" σε αυτό το παράδειγμα.
+Άλλαξε τη συμβολοσειρά `Hello` σε μήνυμα της επιλογής σου. Έχουμε χρησιμοποιήσει το `Ανάπνευσε` σε αυτό το παράδειγμα.
 
 ```microbit
 input.onButtonPressed(Button.A, function () {
@@ -30,7 +30,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-Μπορείς να προσθέσεις περισσότερα μπλοκ μέσα στο μπλοκ "όταν πιεστεί το πλήκτρο button"{:class='microbitinput'} αν χρειάζεται.
+Μπορείς να προσθέσεις περισσότερα μπλοκ μέσα στο μπλοκ `όταν πιεστεί το πλήκτρο button`{:class='microbitinput'} αν χρειάζεται.
 
 Δοκίμασε το έργο σου. Όταν ξαναξεκινήσει ο προσομοιωτής, πάτησε το κουμπί A και το μήνυμά σου θα εμφανιστεί στην οθόνη LED.
 
@@ -38,7 +38,7 @@ input.onButtonPressed(Button.A, function () {
 
 Μπορείς να έχεις πολλά συμβάντα σε ένα μόνο πρόγραμμα!
 
-Άνοιξε το μενού "Είσοδος"{:class='microbitinput'} και σύρε ένα ακόμη μπλοκ "όταν πιεστεί το πλήκτρο button"{:class='microbitinput'} στον χώρο εργασίας.
+Άνοιξε το μενού `Είσοδος`{:class='microbitinput'} και σύρε ένα ακόμη μπλοκ `όταν πιεστεί το πλήκτρο button`{:class='microbitinput'} στον χώρο εργασίας.
 
 Στην αρχή, το μπλοκ θα ξεθωριάσει, επειδή μπορείς να έχεις μόνο μία αντίδραση για κάθε συμβάν.
 
@@ -54,7 +54,7 @@ input.onButtonPressed(Button.A, function () {
 
 Η έκδοση 2 του micro:bit χρησιμοποιεί επίσης το πάτημα του λογότυπου ως συμβάν.
 
-Στο μενού "Είσοδος"{:class='microbitinput'}, μπορείς επίσης να βρεις το μπλοκ "on logo pressed"{:class='microbitinput'}.
+Στο μενού `Είσοδος`{:class='microbitinput'}, μπορείς επίσης να βρεις το μπλοκ `on logo pressed`{:class='microbitinput'}.
 
 Σύρε το μπλοκ στον χώρο εργασίας. Μπορείς να προσθέσεις κι άλλα μπλοκ κώδικα μέσα σε αυτό το μπλοκ, αν χρειάζεται.
 
