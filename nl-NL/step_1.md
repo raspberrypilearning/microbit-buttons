@@ -20,7 +20,7 @@ In het `Basis`{:class='microbitbasic'} menu vind je het `toon tekens `{:class='m
 
 <img src="images/basic-blocks.png" alt="Basic menu expanded showing the `show string` block highlighted." width="350"/>
 
-Plaats het in het `wanneer knop wordt ingedrukt` {:class='microbitinput'} blok.
+Plaats het in het `wanneer knop wordt ingedrukt`{:class='microbitinput'} blok.
 
 Verander de string `Hello` naar een bericht van jouw keuze. We hebben in dit voorbeeld 'Ademen' gebruikt.
 
