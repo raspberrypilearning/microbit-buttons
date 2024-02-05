@@ -22,7 +22,7 @@ In het `Basis`{:class='microbitbasic'} menu vind je het `toon tekens`{:class='mi
 
 Plaats het in het `wanneer knop wordt ingedrukt`{:class='microbitinput'} blok.
 
-Verander de string `Hello` naar een bericht van jouw keuze. We hebben in dit voorbeeld `Ademen`` gebruikt.
+Verander de string `Hello` naar een bericht van jouw keuze. We hebben in dit voorbeeld `Ademen` gebruikt.
 
 ```microbit
 input.onButtonPressed(Button.A, function () {
