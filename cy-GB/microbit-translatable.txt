@@ -1,0 +1,5 @@
+Input menu expanded showing the `on button pressed` block highlighted.
+
+Basic menu expanded showing the `show string` block highlighted.
+
+Animation showing the drop-down menu on the `on button pressed` block. Button B is chosen and the block is no longer greyed out.
